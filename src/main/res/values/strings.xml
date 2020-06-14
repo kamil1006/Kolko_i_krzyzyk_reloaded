@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Kółko i krzyzyk reloaded</string>
+
+    <string name="puste"> </string>
+    <string name="kolko">Kółko</string>
+    <string name="krzyzyk">Krzyzyk</string>
+    <string name="restart">Restart</string>
+    <string name="start">Start</string>
+    <string name="O">O</string>
+    <string name="X">X</string>
+
+</resources>
